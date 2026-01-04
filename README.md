@@ -17,4 +17,4 @@ This script removes old Docker versions, installs the latest stable Docker Engin
 
 ## 🚀 One‑Line Installation
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USERNAME/REPO/main/install_docker.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Mr-AR79/docker-installer/refs/heads/main/install_docker.sh | sudo bash
